@@ -10,7 +10,7 @@ body{
 .container{
     display: grid;
     background-color: rgb(241, 181, 16);
-    height: 30vh;
+    height: 35vh;
     color: white;
     text-align: center;
 }
@@ -29,7 +29,7 @@ body{
     background-color: white;
     display: flex;
     justify-content: center;
-
+    height: max-content;
 }
 
 .buttons>span{
@@ -58,9 +58,8 @@ button:hover{
 
 .colors{
     margin: 20px auto;
-    max-width: 600px;
+    max-width: 600px; 
     background-color: black;
-    /* height: 66vh; */
 }
 
 .cols{
