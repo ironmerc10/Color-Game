@@ -1,2 +1,2 @@
 # Color-Game
-This is great color code game.
+This is color picker game.
